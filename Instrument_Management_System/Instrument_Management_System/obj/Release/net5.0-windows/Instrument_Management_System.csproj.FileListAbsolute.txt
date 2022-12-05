@@ -1,0 +1,28 @@
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.exe
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.deps.json
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.runtimeconfig.json
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.runtimeconfig.dev.json
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.dll
+D:\Instrument Management System\Release\net5.0-windows\Instrument_Management_System.pdb
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.csproj.AssemblyReference.cache
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\Add_dialog.g.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\MainWindow.g.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\Update_dialog.g.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\App.g.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System_MarkupCompile.cache
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System_MarkupCompile.lref
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\Add_dialog.baml
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\MainWindow.baml
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\View\Update_dialog.baml
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.g.resources
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.AssemblyInfoInputs.cache
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.AssemblyInfo.cs
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.csproj.CoreCompileInputs.cache
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.csproj.CopyComplete
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.dll
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\refint\Instrument_Management_System.dll
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.pdb
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\Instrument_Management_System.genruntimeconfig.cache
+D:\Assignments\Instrument_Management_System\Instrument_Management_System\obj\Release\net5.0-windows\ref\Instrument_Management_System.dll
